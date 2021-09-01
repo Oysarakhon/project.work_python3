@@ -1,0 +1,6 @@
+print(" My personal shopping list")
+num_1=input("first")
+num_2=input("second")
+num_3=input("third")
+the_list=f" i want to buy {num_1},{num_2},{num_3}"
+print(the_list)
